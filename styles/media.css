@@ -1,15 +1,11 @@
-/* @media (max-width: 1025px) {
+@media (max-width: 1025px) {
   body {
     align-items: start;
     padding-top: 30px;
   }
-} */
+}
 
 @media (max-width: 1200px) and (min-width: 1025px) {
-    body {
-    align-items: start;
-    padding-top: 30px;
-  }
   .column {
     width: 50%;
   }
